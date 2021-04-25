@@ -9,13 +9,13 @@
  *
  *****************************************************************************/
 /**
- * @file <Add File Name> 
- * @brief <Add Brief Description Here >
+ * @file <Stats.c> 
+ * @brief <Using statistics in C language >
  *
- * <Add Extended Description Here>
+ * <Finding mean,max,min,median value in the given array>
  *
- * @author <Add FirsName LastName>
- * @date <Add date >
+ * @author <Add Zhantemir Baizak>
+ * @date <25.04.2021>
  *
  */
 #ifndef __STATS_H__
@@ -24,16 +24,16 @@
 /* Add Your Declarations and Function Comments here */ 
 
 /**
- * @brief <Add Brief Description of Function Here>
+ * @brief <Using statistics in C language>
  *
- * <Add Extended Description Here>
+ * <Finding mean,max,min,median value in the given array>
  *
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
- * @param <Add InputName> <add description here>
+ * @param <int* test,int SIZE> <A unsigned char pointer to an n-element data array, An unsigned integer as the size of the array>
+ * @param <int* test,int SIZE> <A unsigned char pointer to an n-element data array, An unsigned integer as the size of the array
+ * @param <int* test,int SIZE> <A unsigned char pointer to an n-element data array, An unsigned integer as the size of the array>
+ * @param <int* test,int SIZE> <A unsigned char pointer to an n-element data array, An unsigned integer as the size of the array>
  *
- * @return <Add Return Informaiton here>
+ * @return <prints the statistics of an array including minimum, maximum, mean, and median.>
  */
 
 
