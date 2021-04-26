@@ -24,9 +24,9 @@
 /* Add Your Declarations and Function Comments here */ 
 
 /**
- * @brief <Using statistics in C language>
+ * @brief <Using statistics in C language and Implementing in Linux>
  *
- * <Finding mean,max,min,median value in the given array>
+ * <Finding mean,max,min,median value in the given array, sort array>
  *
  * @param <int* test,int SIZE> <A unsigned char pointer to an n-element data array, An unsigned integer as the size of the array>
  * @param <int* test,int SIZE> <A unsigned char pointer to an n-element data array, An unsigned integer as the size of the array
